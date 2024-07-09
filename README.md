@@ -1,4 +1,4 @@
-## Modelo de Machine Learning para predecir valores de transferencia jugadores de futbol :tw-26bd:
+## Modelo de Machine Learning para predecir valores de transferencia jugadores de futbol :soccer:
 
 Este trabajo busca elaborar un modelo de Machine Learning que ayude a predecir el valor actual de transferencia de un determinado jugador en funcion de sus estadisticas actuales.
 
